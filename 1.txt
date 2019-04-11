@@ -1,0 +1,16 @@
+Date : 2019/04/10
+Order Number : 1
+Customer Name : Rajan
+Customer Address : Jaitu
+Customer Contact No. : 123445
+Customer Email ID : nitin@dsds.com
+Amount : 12
+Total : 
+
+----------------------------------------------------------------------
+Items Purchased By You
+
+Items Name			Rate
+
+Biscuit                         12
+

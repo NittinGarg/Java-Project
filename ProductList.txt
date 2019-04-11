@@ -1,0 +1,27 @@
+Product ID :1
+Product Name :Biscuit
+Warranty :1
+Unit Price :12
+Quantity :122
+Date :2019/04/10
+
+--------------------------------------------------
+
+Product ID :2
+Product Name :Biscuitasd
+Warranty :1
+Unit Price :12
+Quantity :122
+Date :2019/04/10
+
+--------------------------------------------------
+
+Product ID :3
+Product Name :Chicken
+Warranty :1
+Unit Price :21
+Quantity :21
+Date :2019/04/10
+
+--------------------------------------------------
+

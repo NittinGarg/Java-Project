@@ -1,0 +1,45 @@
+RetailerID :1
+Name :Nitin
+Address :Cimmaron Stret
+MObile No. :12345678
+Email ID :wqwq@gmail.com
+Date :2019/04/10
+
+------------------------------------------------
+
+RetailerID :2
+Name :Kuldeep
+Address :Brampton
+MObile No. :2345761289
+Email ID :sajsj@gmail.com
+Date :2019/04/10
+
+------------------------------------------------
+
+RetailerID :3
+Name :Aman
+Address :Milfrost
+MObile No. :123456783
+Email ID :aman@gmail.com
+Date :2019/04/10
+
+------------------------------------------------
+
+RetailerID :4
+Name :Davinder
+Address :Markham
+MObile No. :123121
+Email ID :21@gmail.com
+Date :2019/04/10
+
+------------------------------------------------
+
+RetailerID :5
+Name :Gurpreet
+Address :Scarborough
+MObile No. :5983839
+Email ID :awsd@gmail.com
+Date :2019/04/10
+
+------------------------------------------------
+
